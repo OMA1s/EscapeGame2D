@@ -1,5 +1,9 @@
 # EscapeGame2D
 Unity 2D platformer escape game. This was a learning project from Udemy course on Unity 2D.
+
+To download Builds and run game, go to itch.io link below:
+https://oma1s.itch.io/2d-platformer-escape-game
+
 Screenshots:
 ![Screenshot (152)](https://github.com/OMA1s/EscapeGame2D/assets/47072049/d41927ec-b85b-4d1b-8706-2210f4021060)
 ![Screenshot (153)](https://github.com/OMA1s/EscapeGame2D/assets/47072049/ce22f876-1a96-4477-88f5-16b71aec1ca9)
